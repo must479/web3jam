@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@3id/connect": "^0.2.5",
-    "@ceramicnetwork/3id-did-resolver": "^1.4.9",
-    "@ceramicnetwork/http-client": "^1.4.4",
+    "@ceramicnetwork/3id-did-resolver": "^2.8.1",
+    "@ceramicnetwork/http-client": "^2.12.1",
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
     "@ethersproject/providers": "^5.5.0",
